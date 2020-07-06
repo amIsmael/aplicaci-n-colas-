@@ -1,0 +1,16 @@
+{
+    "name": "08-socket-basico",
+    "version": "1.0.0",
+    "description": "Es una aplicación básica de colas hechas en el curso de node de Udemy",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node server/server.js"
+    },
+    "author": "Ismael Pérez",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.16.3",
+        "socket.io": "^2.0.4"
+    }
+}
